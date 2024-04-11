@@ -41,7 +41,7 @@
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Harsha-Digari - feel free to contact me!
 
 
 <!-- Optional -->
